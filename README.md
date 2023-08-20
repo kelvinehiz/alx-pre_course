@@ -1,1 +1,1 @@
-My first readme
+This is a readme for 0x01-git
